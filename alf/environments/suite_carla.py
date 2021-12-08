@@ -13,6 +13,8 @@
 # limitations under the License.
 """CarlaEnvironment suite.
 
+============ For CI TESTING ===============
+
 To use this, there are two ways:
 
 1. Run the code within docker image horizonrobotics/alf:0.0.3-carla
